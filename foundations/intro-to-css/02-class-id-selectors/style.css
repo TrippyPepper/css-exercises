@@ -11,3 +11,9 @@ p {
 .p2 {
    font-size: 24px;
 }
+
+#div2 {
+   background-color: #90EE90;
+   font-size: 24px;
+   font-weight: bold;
+}
