@@ -12,3 +12,24 @@ button {
 .second {
 background-color: yellow;
 }
+
+
+
+/*.inverted,
+.fancy {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+}
+
+.inverted {
+  background-color: black;
+  color: white;
+}
+
+.fancy {
+  background-color: yellow;
+}
+*/
+
+
+/* their code is better long term, but since we only have 2 buttons i did it my way.. Will try to remember not to do that for future ref */
