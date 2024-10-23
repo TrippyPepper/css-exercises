@@ -1,0 +1,10 @@
+.container {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/*.container works, but i guess .container.text would be better????? for small issue this is fine.
+Later on need to be more specific with .countainer.text so nothing gets CSSd by accident. I need to remind
+myself that I need to be more precise to not style unwanted code*/
